@@ -1,6 +1,10 @@
 # Robot Trading XAUUSD Timeframe M15 
 berikut adalah robot trading xauusd otomatis berjalan dengan metatrader5.
 
+## **Fitur fitur yang diberikan:**
+   
+
+
 ---
 
 ### **Script EA MetaTrader 5 (XAUUSD_MA_Cross.mq5)**
