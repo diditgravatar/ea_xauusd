@@ -1,5 +1,5 @@
 # EA XAUUSD M15
-Berikut adalah skrip dasar Expert Advisor (EA) untuk MetaTrader 5 yang mengikuti aturan yang Anda tentukan:
+Berikut adalah skrip dasar Expert Advisor (EA) untuk MetaTrader 5 yang berjalan di trading xauusd pada timeframe M15 saja.
 
 ### **Fitur Utama:**
 - **Entry Buy:** MA35 melewati MA82 dari bawah ke atas, dan harga bergerak 200 pip setelah persilangan sebelum entry.
