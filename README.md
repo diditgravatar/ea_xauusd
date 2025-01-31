@@ -21,7 +21,7 @@ CTrade trade;
 
 input int MA_Short = 35;
 input int MA_Long = 82;
-input int LotSize = 1;
+input int LotSize = 0.1; // untuk saldo $1000
 input double PipBuffer = 200;  // 200 pip setelah persilangan
 
 double previousMA_Short, previousMA_Long;
