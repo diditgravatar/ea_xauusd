@@ -4,6 +4,8 @@ berikut adalah robot trading xauusd otomatis berjalan dengan metatrader5.
 ### **Fitur fitur yang diberikan:**
    1. **Entry Buy jika MA35 melewati MA82 dari bawah ke atas sampai 200pip Entry Buy baru di eksekusi**
    2. **Entry Sell jika MA35 melewati MA82 dari atas kebawah sampai jarak 200pip.**
+   3. **Terdapat fitur stop loss , take profit dan lotSize.**
+   4. **Eksekusi open order 1 x open order dalam satu persilangan antara MA35 dan MA82**
 
 
 ---
