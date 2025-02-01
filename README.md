@@ -136,3 +136,6 @@ void OnTick()
    4. **Ujicoba diakun demo apakah robot trading bisakah diandalkan**
    5. **Di sarankan pemakaian robot ini di layanan vps agar bekerja dalam 24x7 hari atau nonstop.**
 
+### **Tujuan Pembuatan EA ini:**
+ -- **Untuk mendapatkan take profit pada setiap open order yang dieksekusi oleh EA ini di dalam trading XAUUSD Timeframe M15.**
+
