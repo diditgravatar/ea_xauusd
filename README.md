@@ -137,6 +137,6 @@ void OnTick()
    5. **Di sarankan pemakaian robot ini di layanan vps agar bekerja dalam 24x7 hari atau nonstop.**
 
 ### **Tujuan Pembuatan EA ini:**
- -- **Untuk mendapatkan take profit pada setiap open order yang dieksekusi oleh EA ini di dalam trading XAUUSD Timeframe M15.**
- -- **Author By Didit Farafat.**
+ 1. **Untuk mendapatkan take profit pada setiap open order yang dieksekusi oleh EA ini di dalam trading XAUUSD Timeframe M15.**
+ 2. **Author By Didit Farafat.**
 
