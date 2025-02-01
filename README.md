@@ -1,5 +1,6 @@
 # Robot Trading XAUUSD Timeframe M15 
 berikut adalah robot trading xauusd otomatis berjalan dengan metatrader5.
+Robot trading ini khusus digunakan untuk timeframe M15 dan tidak untuk timeframe yang lain untuk memaksimalkan take profit.
 
 ### **Fitur fitur yang diberikan:**
    1. **Entry Buy jika MA35 melewati MA82 dari bawah ke atas sampai 200pip Entry Buy baru di eksekusi**
@@ -130,10 +131,10 @@ void OnTick()
 ✅ **Mendeteksi Order Aktif dan Menunggu Persilangan Baru**  
 
 ### **Penjelasan Uji Robot**
-   1. **Silahkan download atau copy paste script diatas**
-   2. **Simpan di file_anda.mq5**
-   3. **Silahkan pasang robot tersebut di metatrader5 serta aktifkan auto trading**
-   4. **Ujicoba diakun demo apakah robot trading bisakah diandalkan**
+   1. **Silahkan download atau copy paste script diatas.**
+   2. **Simpan di file_anda.mq5.**
+   3. **Silahkan pasang robot tersebut di metatrader5 serta aktifkan auto trading.**
+   4. **Ujicoba diakun demo apakah robot trading bisakah diandalkan.**
    5. **Di sarankan pemakaian robot ini di layanan vps agar bekerja dalam 24x7 hari atau nonstop.**
 
 ### **Tujuan Pembuatan EA ini:**
