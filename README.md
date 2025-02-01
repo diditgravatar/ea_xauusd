@@ -129,3 +129,10 @@ void OnTick()
 ✅ **Stop Loss, Take Profit, dan Lot Size Bisa Dikonfigurasi**  
 ✅ **Mendeteksi Order Aktif dan Menunggu Persilangan Baru**  
 
+### **Penjelasan Uji Robot**
+   1. **Silahkan download atau copy paste script diatas**
+   2. **Simpan di file_anda.mq5**
+   3. **Silahkan pasang robot tersebut di metatrader5 serta aktifkan auto trading**
+   4. **Ujicoba diakun demo apakah robot trading bisakah diandalkan**
+   5. **Di sarankan pemakaian robot ini di layanan vps agar bekerja dalam 24x7 hari atau nonstop.**
+
