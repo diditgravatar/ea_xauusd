@@ -138,5 +138,5 @@ void OnTick()
 
 ### **Tujuan Pembuatan EA ini:**
  1. **Untuk mendapatkan take profit pada setiap open order yang dieksekusi oleh EA ini di dalam trading XAUUSD Timeframe M15.**
- 2. **Author By Didit Farafat.**
+ 2. **Author By Didit Farafat ingin mengembangkan Robot Trading Otomatis khusus untuk XAUUSD.**
 
