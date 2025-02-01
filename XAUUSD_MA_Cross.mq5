@@ -1,6 +1,7 @@
 
 //+------------------------------------------------------------------+
 //| Expert Advisor for XAUUSD on M15                                 |
+//| Author Didit Farafat                                             |
 //| Entry conditions based on MA35 and MA82 crossings               |
 //+------------------------------------------------------------------+
 #include <Trade\Trade.mqh>
